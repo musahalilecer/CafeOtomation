@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\bin\Debug\Menu.exe
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\bin\Debug\Menu.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.exe
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.Form2.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\Menu\Menu\obj\Debug\Menu.Form3.resources
